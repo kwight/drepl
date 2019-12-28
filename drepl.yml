@@ -1,4 +1,4 @@
-# /Users/kwight/.config/tmuxinator/drepl.yml
+# ~/.config/tmuxinator/drepl.yml
 
 name: drepl
 root: ~/code/drepl
