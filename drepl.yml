@@ -5,7 +5,7 @@ root: ~/code/drepl
 
 windows:
   - drepl:
-      layout: c763,231x60,0,0{161x60,0,0,0,69x60,162,0,1}
+      layout: 189f,158x43,0,0{93x43,0,0,0,64x43,94,0,1}
       panes:
         - vim main.dart
         - filewatcher '*' 'dart $FILENAME'
