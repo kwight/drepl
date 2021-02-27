@@ -8,4 +8,4 @@ windows:
       layout: c763,231x60,0,0{161x60,0,0,0,69x60,162,0,1}
       panes:
         - vim main.dart
-        - filewatcher '**/*.dart' 'dart main.dart'
+        - filewatcher '*' 'dart $FILENAME'
