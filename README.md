@@ -5,7 +5,7 @@ To be clear, there's no magic here; you can use any filewatcher that calls the D
 
 ## Requirements
 * [Dart SDK](https://dart.dev/tools/sdk)
-* [filewatcher](https://github.com/filewatcher/filewatcher)
+* [filewatcher-cli](https://github.com/filewatcher/filewatcher-cli)
 * [tmux](https://github.com/tmux/tmux)
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
 
