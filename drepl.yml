@@ -8,4 +8,4 @@ windows:
       layout: 189f,158x43,0,0{93x43,0,0,0,64x43,94,0,1}
       panes:
         - vim main.dart
-        - filewatcher '*' 'dart $FILENAME'
+        - clear && filewatcher '*' 'echo "\n---------------\n" && dart $FILENAME'
